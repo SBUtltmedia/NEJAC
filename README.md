@@ -1,5 +1,7 @@
 # NEJAC Recommendations Search Engine
 
+https://sbutltmedia.github.io/NEJAC/
+
 This project is a local, browser-based remake of the formerly available "Individual NEJAC Recommendations Search Engine" from the U.S. Environmental Protection Agency (EPA) website. It allows users to easily search, view, and access full reports of recommendations made by the National Environmental Justice Advisory Council (NEJAC).
 
 ## Features
